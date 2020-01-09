@@ -1,3 +1,7 @@
+// Hayati TASTAN
+// 9 Ocak 2020
+// AFAD
+
 import { colorCode, COLORS } from './resistor-color'
 
 describe('ResistorColor', () => {
